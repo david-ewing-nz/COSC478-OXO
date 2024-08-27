@@ -1,0 +1,4 @@
+1 Transformer architectuur is een diep leren architectuur model dat een aandachtsmechanisme gebruikt om invoergegevens te verwerken. 
+2 Tokenisatie is het proces om tekst te converteren naar kleinere eenheden die verwerkt kunnen worden door een groot taalmodel. 
+3 Zowel katten als honden zijn fantastische en loyale metgezellen voor het leven. 
+4 Katten houden ervan om dutjes te doen in huis en honden vinden het leuk om achter stokken aan te rennen. 

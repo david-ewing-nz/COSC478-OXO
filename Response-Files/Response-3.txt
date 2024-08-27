@@ -1,0 +1,4 @@
+1 Een transformerarchitectuur is een deep learning-modelarchitectuur die gebruikmaakt van self-attention-mechanismen om invoergegevens te verwerken.
+2 Tokenisatie ? Is het proces van het omzetten van tekst in kleinere eenheden die verwerkt kunnen worden door een groot taalmodel. 
+3 Zowel katten als honden zijn geweldige en loyale metgezellen voor het leven.
+4 Katten houden van een dutje doen in huis en honden houden van op stokjes jagen. 
