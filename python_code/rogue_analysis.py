@@ -1,12 +1,13 @@
-from rouge_score import rouge_scorer
+
+
 
 #  
-def get_openai_key()
+def get_openai_key():
     with open('openai_key.txt', 'r') as file:
         key = file.read().replace('\n', '')
     return key
 
-def read_csv(file_path)
+def read_csv(file_path):
     with open(file_path, 'r') as file:
         lines = file.readlines()
     return lines
