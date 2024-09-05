@@ -1,4 +1,4 @@
-﻿who,question,assignment,LLM,expert,
+﻿who,question,assignment,LLM,expert,Text
 TrevorNisbit,1,1,0,0,A transformer architecture is a deep learning model architecture that uses self-attention mechanisms to process input data.
 TrevorNisbit,2,1,0,0,Tokenisation is the process of converting text into smaller units that can be processed by a large language model.
 TrevorNisbit,3,1,0,0,Both cats and dogs make wonderful and loyal companions for life.
@@ -19,7 +19,8 @@ Angie Ruiz Mondéjar,1,0,0,1,Een transformerarchitectuur is een deep learning-mo
 Angie Ruiz Mondéjar,2,0,0,1,Tokenisatie ? Is het proces van het omzetten van tekst in kleinere eenheden die verwerkt kunnen worden door een groot taalmodel.
 Angie Ruiz Mondéjar,3,0,0,1,Zowel katten als honden zijn geweldige en loyale metgezellen voor het leven.
 Angie Ruiz Mondéjar,4,0,0,1,Katten houden van een dutje doen in huis en honden houden van op stokjes jagen.
-karen.persson@gmail.com,1,0,0,1,Architecture Transformer is a deep learning model architecture that uses self-attention mechanisms to process data input.
-karen.persson@gmail.com,2,0,0,1,Tokenism is the process of converting text into smaller units that can be processed by a larger language.
-karen.persson@gmail.com,3,0,0,1,Both cats and dogs make wonderful and loyal life partners.
-karen.persson@gmail.com,4,0,0,1,Cats love to sleep and dogs love to chase a stick.
+karen.persson@gmail.com,1,0,0,1,Architectuur Transformator is een diep leermodel architectuur dat zelf attentie mechanismen gebruikt om data input te verwerken. 
+karen.persson@gmail.com,2,0,0,1,Tokenisme is het proces van omzetten van tekst tot kleinere units die door een grotere taal verwerkt kunnen worden.
+karen.persson@gmail.com,3,0,0,1,Beide katten en honden maken prachtige en loyale levenspartners.
+karen.persson@gmail.com,4,0,0,1,Katten houden van slapen en honden houden ervan achter een stok aan te hollen.
+   

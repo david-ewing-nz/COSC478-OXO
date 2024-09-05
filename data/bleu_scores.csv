@@ -1,0 +1,5 @@
+Reference Translation,LLM Translation,BLEU Score
+Een transformatie architectuur is een diep leren architectuur wat een zelf attentie mechanisme gebruikt om de data te verwerken.,Een transformer-architectuur is een diep leermodelarchitectuur die zelfaandachtsmechanismen gebruikt om invoergegevens te verwerken.,0.07365709163781675
+In het tokenisatie proces wordt tekst omgezet naar kleinere eenheden die kunnen worden verwerkt door grote taalmodellen.,Tokenisatie is het proces van het omzetten van tekst in kleinere eenheden die door een groot taalmodel kunnen worden verwerkt.,0.06941681530093603
+Zowel katten als honden zijn leuke en loyale huisdieren voor het leven.,Zowel katten als honden zijn geweldige en trouwe metgezellen voor het leven.,0.4366835442847812
+Katten houden ervan om dutjes te doen in het huis en honden hollen graag achter stokken aan.,Katten houden ervan om door het huis te dutten en honden vinden het leuk om achter stokken aan te rennen.,0.1835554260049945
