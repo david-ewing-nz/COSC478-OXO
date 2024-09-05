@@ -9,7 +9,7 @@ def ngrams(tokens, n):
 
 # Function to calculate precision for n-grams, treating order as independent
 def precision(reference_tokens, candidate_tokens, n):
-    ref_ngrams = Counter(ngrams(reference_tokens, n))
+    ref_ngrams  = Counter(ngrams(reference_tokens, n))
     cand_ngrams = Counter(ngrams(candidate_tokens, n))
     
     # Count how many n-grams from the candidate are in the reference (ignoring order)
@@ -48,7 +48,7 @@ def calculate_bleu_manual(reference, candidate):
     print(f"Unigram Precision: {p1:.4f},\nBigram  Precision: {p2:.4f},\nTrigram Precision: {p3:.4f},\n4-gram  Precision: {p4:.4f}")
     
     # Geometric mean of precisions (if any precision is 0, return 0)
-    if p1 == 0 or p2 == 0 or p3 == 0 or p4 == 0:
+    if p1 * p2 * p3 * p4 == 0:
         geometric_mean = 0
     else:
         geometric_mean = (p1 * p2 * p3 * p4) ** (1/4)
@@ -87,4 +87,4 @@ output_df = pd.DataFrame({
 })
 
 # Save the BLEU scores to a CSV file (optional)
-output_df.to_csv('./data/bleu_scores_manual_unordered.csv', index=False)
+output_df.to_csv('./data/bleu_scores.csv', index=False)
