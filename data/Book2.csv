@@ -1,0 +1,29 @@
+﻿who,question,assignment,LLM,expert,Text
+TrevorNisbit,1,1,0,0,A transformer architecture is a deep learning model architecture that uses self-attention mechanisms to process input data.
+TrevorNisbit,2,1,0,0,Tokenisation is the process of converting text into smaller units that can be processed by a large language model.
+TrevorNisbit,3,1,0,0,Both cats and dogs make wonderful and loyal companions for life.
+TrevorNisbit,4,1,0,0,Cats love to nap around the house and dogs like chasing sticks
+CoPilot,1,0,1,0,Een transformer-architectuur is een deep learning modelarchitectuur die zelfaandachtmechanismen gebruikt om invoergegevens te verwerken.
+CoPilot,2,0,1,0,Tokenisatie is het proces van het omzetten van tekst in kleinere eenheden die door een groot taalmodel kunnen worden verwerkt.
+CoPilot,3,0,1,0,Zowel katten als honden zijn geweldige en loyale metgezellen voor het leven.
+CoPilot,4,0,1,0,Katten houden ervan om in huis te dutten en honden houden van het achtervolgen van stokken.
+ajveendijk@proton.me,1,0,0,1,Een transformatie architectuur is een diep leren architectuur wat een zelf attentie mechanisme gebruikt om de data te verwerken.
+ajveendijk@proton.me,2,0,0,1,In het tokenisatie proces wordt tekst omgezet naar kleinere eenheden die kunnen worden verwerkt door grote taalmodellen.
+ajveendijk@proton.me,3,0,0,1,Zowel katten als honden zijn leuke en loyale huisdieren voor het leven.
+ajveendijk@proton.me,4,0,0,1,Katten houden ervan om dutjes te doen in het huis en honden hollen graag achter stokken aan.
+GPT-4.o,1,0,2,0,Een transformer-architectuur is een diep leermodelarchitectuur die zelfaandachtsmechanismen gebruikt om invoergegevens te verwerken.
+GPT-4.o,2,0,2,0,Tokenisatie is het proces van het omzetten van tekst in kleinere eenheden die door een groot taalmodel kunnen worden verwerkt.
+GPT-4.o,3,0,2,0,Zowel katten als honden zijn geweldige en trouwe metgezellen voor het leven.
+GPT-4.o,4,0,2,0,Katten houden ervan om door het huis te dutten en honden vinden het leuk om achter stokken aan te rennen.
+acambier@hotmail.com,1,0,0,2,Transformer architectuur is een diep leren architectuur model dat een aandachtsmechanisme gebruikt om invoergegevens te verwerken. 
+acambier@hotmail.com,2,0,0,2,Tokenisatie is het proces om tekst te converteren naar kleinere eenheden die verwerkt kunnen worden door een groot taalmodel. 
+acambier@hotmail.com,3,0,0,2,Zowel katten als honden zijn fantastische en loyale metgezellen voor het leven. 
+acambier@hotmail.com,4,0,0,2,Katten houden ervan om dutjes te doen in huis en honden vinden het leuk om achter stokken aan te rennen. 
+Angie Ruiz Mondéjar,1,0,0,3,Een transformerarchitectuur is een deep learning-modelarchitectuur die gebruikmaakt van self-attention-mechanismen om invoergegevens te verwerken.
+Angie Ruiz Mondéjar,2,0,0,3,Tokenisatie ? Is het proces van het omzetten van tekst in kleinere eenheden die verwerkt kunnen worden door een groot taalmodel.
+Angie Ruiz Mondéjar,3,0,0,3,Zowel katten als honden zijn geweldige en loyale metgezellen voor het leven.
+Angie Ruiz Mondéjar,4,0,0,3,Katten houden van een dutje doen in huis en honden houden van op stokjes jagen.
+karen.persson@gmail.com,1,0,0,4,Architectuur Transformator is een diep leermodel architectuur dat zelf attentie mechanismen gebruikt om data input te verwerken. 
+karen.persson@gmail.com,2,0,0,4,Tokenisme is het proces van omzetten van tekst tot kleinere units die door een grotere taal verwerkt kunnen worden.
+karen.persson@gmail.com,3,0,0,4,Beide katten en honden maken prachtige en loyale levenspartners.
+karen.persson@gmail.com,4,0,0,4,Katten houden van slapen en honden houden ervan achter een stok aan te hollen.
